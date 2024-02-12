@@ -1,6 +1,3 @@
-Sure, here's a README.md file for your repository:
-
-```markdown
 # Web Scraping Boilerplate Code
 
 This repository contains boilerplate code to scrape data from any website using Python. It includes functions to fetch HTML, scrape data, and store it in both JSON and Excel formats.
