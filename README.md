@@ -56,8 +56,6 @@ scrapeAndStore("data/scrap.html", "data/products.json")
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 Feel free to contribute and improve the code!
 
 Make sure to replace `<repository_url>` with the actual URL of your repository. This README provides an overview of your code, instructions on how to use it, and information about the functions included.
