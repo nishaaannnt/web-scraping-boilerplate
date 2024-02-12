@@ -34,7 +34,7 @@ This repository contains boilerplate code to scrape data from any website using 
 5. **Run the code**:
 
    ```bash
-   python main.py
+   python scrap.py
    ```
 
 ## Functions
